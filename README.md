@@ -52,3 +52,5 @@ npm install
 ```bash
 npm test
 ```
+**Solution by**
+- Suhail Kakar
